@@ -60,8 +60,8 @@ include_once "nav.php";
                         <td>
                             <select v-model="employee.status" class="form-control">
                                 <option disabled value="unset">--Select--</option>
-                                <option value="presence">Presence</option>
-                                <option value="absence">Absence</option>
+                                <option value="presence">Presente</option>
+                                <option value="absence">Ausente</option>
                             </select>
                         </td>
                     </tr>
